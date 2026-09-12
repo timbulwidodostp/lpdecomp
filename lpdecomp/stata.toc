@@ -2,4 +2,4 @@
 1
 2
 3
-p cvmtest K-sample Cramer-von Mises equality-of-distributions test Use cvmtest With STATA 19
+p lpdecomp Routine for representing the point estimates of local projections as a cumulating weighted average over time Use lpdecomp With STATA 19
