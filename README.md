@@ -1,0 +1,2 @@
+# lpdecomp
+Routine for representing the point estimates of local projections as a cumulating weighted average over time Use lpdecomp With STATA 19
