@@ -1,0 +1,28 @@
+.-
+help for ^lpdecomp^
+.-
+
+Routine for representing the point estimates of local projections as a cumulating weighted average over time Use lpdecomp With STATA 19
+----------------------
+
+ ^lpdecomp^
+ 
+Description
+-----------
+
+^lpdecomp^ Routine for representing the point estimates of local projections as a cumulating weighted average over time Use lpdecomp With STATA 19
+     
+^Note:^ Requires lpdecomp.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^qtsset tsset^
+ . ^lpdecomp lpdecomp lpdecomp_ `mount', h(24) lag(11) contemp(contemp) cum noadj decompgraph^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah
