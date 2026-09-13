@@ -1,6 +1,8 @@
 # lpdecomp
 Routine for representing the point estimates of local projections as a cumulating weighted average over time Use lpdecomp With STATA 19
 
+https://www.youtube.com/watch?v=LsqlI95nIiA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
